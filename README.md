@@ -77,16 +77,16 @@ DH PARAMETERS:
  
 #### 6 DOF
 
-![image](https://user-images.githubusercontent.com/70213227/170174722-a81f96da-e92a-4d68-b0fd-79c50bcf3919.png)
 
 
-![image](https://user-images.githubusercontent.com/70213227/170174849-142fab7b-61d8-43c1-bae7-41643aeafc85.png)
+![image](https://github.com/KARTHICKRAJM84/Forward-kinematics-using-robot-analyzer/assets/128134963/688a9687-ba1c-4213-ac95-64fe5f6c2ec4)
+
 
 #### 4 DOF
 
-![image](https://user-images.githubusercontent.com/70213227/170175025-07bb37e4-f842-497f-b014-13bc88d8da6d.png)
 
-![image](https://user-images.githubusercontent.com/70213227/170175000-7e58a8da-dd7e-4143-8d1f-d80911fabb30.png)
+
+![image](https://github.com/KARTHICKRAJM84/Forward-kinematics-using-robot-analyzer/assets/128134963/58e8d124-6b81-4001-97e1-6e1a6fd11417)
 
 
 
